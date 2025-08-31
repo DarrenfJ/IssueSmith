@@ -1,0 +1,11 @@
+# System
+.DS_Store
+Thumbs.db
+*.log
+
+# Envs (future-proof)
+node_modules/
+venv/
+
+# Project-specific
+archive/
